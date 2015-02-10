@@ -1,0 +1,20 @@
+---
+layout: default
+title: David Elmer | Software Developer
+---
+
+<div id="home">
+  <!--<h1 class="no-subheading">Portfolio</h1>-->
+
+  <ul class="posts index-menu">
+    {% for post in site.posts %}
+    <li>
+      <a class="post-index-link" href="{{ post.url }}">
+        <span class="post-title">{{ post.title }}</span>
+        <span class="post-subtitle">{{ post.subtitle }}</span>
+      </a>
+      <img src="{{ "/images/" | append: post.img_small | prepend: site.baseurl | prepend: site.url }}" alt="{{ post.title }}">
+    </li>
+    {% endfor %}
+  </ul>
+</div>
