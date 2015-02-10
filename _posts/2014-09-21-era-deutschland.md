@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ERA Deutschland
+title: ERA Germany - 2014
 subtitle:  Responsive national real estate franchise website built with Bootstrap
 category: project
 img_small: erade_tn.jpg
@@ -9,25 +9,23 @@ date: 2014-01-01 00:00:09
 tags: []
 permalink: /era-deutschland/
 ---
+This project represented a UI redesign of Germany’s national real estate website.  As an employee of ERA Europe, I was tasked with reusing and customizing the code base for sister website, ERA Switzerland. Much of my work involved tweaking functionality unique to the German real estate workflows and data.
 
-Responsive European real estate franchise website.
+### Special features:
+* Responsive design
+* Auto-suggestion
+* Infinite scroll search results
+* Custom property photo scrollers  
+* Custom form validation
+
+![ERA Deutschland Website]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
+
+### Technologies:
+* Bootstrap/HTML/CSS
+* Javascript/jQuery
+* Ajax/JSON
+* Google Maps
+* SQL/SQL Server  
+* ColdFusion
 
 Site: [http://eradeutschland.de](http://eradeutschland.de/)
-
-<!--more-->
-
-### Special features
-- Feature 1
-- Feature 2
-- Feature 3
-
-<br/>
-
-<span class="project-img-wrap">
-![ERA Deutschland Website]({{ "/assets/images/projects/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
-</span>
-
-Made With: [Bootstrap 3](http://getbootstrap.com/)
-
-### Technologies
-Bootstrap, jQuery, HTML, CSS, ColdFusion, MS SQL Server

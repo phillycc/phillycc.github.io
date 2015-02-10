@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heritage Park Townhomes
+title: Heritage Park Townhomes - 2007 & 2014
 subtitle: WordPress website for Central Florida homeowners association
 category: project
 img_small: "hp_tn.jpg"

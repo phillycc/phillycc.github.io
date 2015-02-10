@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ERA France Mobile
+title: ERA France Mobile - 2012
 subtitle: Dedicated mobile website for national real estate franchise
 category: project
 img_small: "erafr_tn.jpg"

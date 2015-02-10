@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ERA Switzerland (2014)
+title: ERA Switzerland - 2014
 subtitle: Responsive national real estate franchise website built with Bootstrap
 category: project
 img_small: "erach_tn.jpg"

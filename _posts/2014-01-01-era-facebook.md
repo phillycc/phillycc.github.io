@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ERA Europe Facebook App
+title: ERA Europe Facebook App - 2012
 subtitle: Facebook Connect promotional web app
 category: project
 img_small: "erafb_tn.jpg"
