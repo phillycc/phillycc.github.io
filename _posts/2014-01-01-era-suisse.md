@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ERA Switzerland
+title: ERA Switzerland (2014)
 subtitle: Responsive national real estate franchise website built with Bootstrap
 category: project
 img_small: "erach_tn.jpg"
@@ -9,22 +9,23 @@ date: 2014-01-01 00:00:10
 tags: []
 permalink: /era-suisse/
 ---
+This project represented a UI redesign of Switzerland’s national real estate website.  As an employee of ERA Europe, I coded all user functionality and all database integration. I also lead the team framing the site in Bootstrap per our graphic design specs.
 
-This project represented a redesign of Switzerland’s national real estate website.  I took the team lead in framing the site in Bootstrap 3 per our graphic design specs.  I also coded all user functionality and that included customizing javascript libraries and components and making Ajax calls to a SQL Server database.  Once launched, the site eliminated the need for the ERA Suisse mobile website.
-
-
-<!--more-->
-
-### Special features
-- Feature 1
-- Feature 2
-- Feature 3
-
-<br/>
+### Special features:
+* Responsive design
+* Auto-suggestion
+* Infinite scroll search results
+* Custom property photo scrollers  
+* Custom form validation
 
 ![ERA Suisse Website]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
-Site: [http://erasuisse.ch](http://erasuisse.ch)
+### Technologies:
+* Bootstrap/HTML/CSS
+* Javascript/jQuery
+* Ajax/JSON
+* Google Maps
+* SQL/SQL Server  
+* ColdFusion
 
-### Technologies
-Bootstrap, jQuery, HTML, CSS, ColdFusion, MS SQL Server
+Site: [http://erasuisse.ch](http://erasuisse.ch)

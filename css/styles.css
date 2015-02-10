@@ -29,7 +29,7 @@ ul.social a {
   font-size: 1.6em;
 }
 ul.social a:hover {
-  color: #39c;
+  color: #005BAA;
   transition: color 0.2s ease-in-out;
 }
 @media print, screen and (max-width: 966px) {
@@ -73,7 +73,6 @@ ul.social a:hover {
     text-transform: uppercase;
     font-weight: 800;
     font-family: Lato;
-    /**font-family: "Helvetica Neue", sans-serif;**/
     border-radius: 4px;
     padding: 7px 12px;
     border: 2px solid #cccccc;
@@ -96,11 +95,11 @@ ul.social a:hover {
   margin-bottom: 8px;
   line-height: 1em;
   font-weight: bold;
-  color: #00A7FF;
+  color: ##005BAA;
 }
 .index-menu .post-subtitle {
   display: inline-block;
-  margin-top: 10px;
+  margin-top: 5px;
   font-family: Georgia, serif;
   color: #555;
   font-weight: 300;
@@ -111,6 +110,7 @@ ul.social a:hover {
 .index-menu .post-index-link {
   display: block;
 }
+
 .tag-label {
   font-size: 10px;
   border-radius: 3px;
@@ -150,7 +150,7 @@ body {
   line-height: 1.5em;
   font-size: 16px;
   margin: 0;
-  border-top: 3px solid #00A7FF;
+  border-top: 3px solid #005BAA;
 }
 h1,
 h2,
@@ -159,17 +159,12 @@ h4,
 h5,
 h6 {
   color: #333333;
-  margin: 0 0 20px;
   font-family: Lato, "Helvetica Neue", sans-serif;
-}
-h1,
-h2,
-h3 {
-  line-height: 1.1;
 }
 h1,
 h2 {
   font-size: 40px;
+  line-height: 1.1;
 }
 @media (min-width: 967px) {
   h1.no-subheading {
@@ -186,7 +181,7 @@ dl,
   margin: 0 0 20px;
 }
 a {
-  color: #00A7FF;
+  color: #005BAA;
   font-weight: 400;
   text-decoration: none;
 }
@@ -260,7 +255,22 @@ section {
   padding-bottom: 50px;
 }
 .post {
-  margin-top: 40px;
+  margin-top: 0;
+}
+
+.btn{
+  border-color: #205081;
+  background: #205081;
+  padding: 20px 25px;
+  line-height: 5px;
+  position: relative;
+  margin: 0 5px 20px 0;
+  color: #fff;
+  border: 1px solid #EEEEEE;
+  text-decoration: none;
+  letter-spacing: 1px;
+  border-bottom-width: 2px;
+  display: inline-block;
 }
 ul.nav .sep {
   padding: 0 6px;
@@ -279,17 +289,22 @@ ul.index-menu {
   padding: 0;
   list-style: none;
 }
-.post h3 {
-  padding-top: 25px;
+h3 {
+  font-size: 16px;
+  margin:0;
+  padding:0;
 }
-h3,
-h3 code {
-  font-size: 24px;
+
+h3 ul li{
+  margin:0;
+  padding:0;
 }
+
 h3 code {
+  font-size: 16px;
   font-weight: normal;
   color: #777;
-  padding: 0 3px;
+  padding:0;
 }
 blockquote code {
   font-style: normal;
@@ -307,10 +322,14 @@ section {
   padding-left: 260px;
   box-sizing: border-box;
 }
-.page-subtitle {
-  margin-bottom: 4px;
-  font-size: 20px;
+.page-title {
+  font-size: 22px;
+  margin-bottom: 10px;
 }
+.page-subtitle {
+  font-size: 16px;
+}
+
 .meta {
   font-size: 16px;
 }
@@ -355,6 +374,7 @@ section {
     text-align: center;
   }
 }
+
 @media print {
   body {
     padding: 0.4in;
