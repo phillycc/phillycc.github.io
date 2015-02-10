@@ -10,24 +10,6 @@ tags: []
 permalink: /heritage-park/
 ---
 
-Homeowners association website.
+![ERA Heritage Park Townhomes HOA Website]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
 Site: [http://heritageparktoa.com](heritageparktoa.com)
-
-<!--more-->
-
-### Special features
-- Feature 1
-- Feature 2
-- Feature 3
-
-<br/>
-
-<span class="project-img-wrap">
-![ERA Heritage Park Townhomes HOA Website]({{ "/assets/images/projects/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
-</span>
-
-Made With: WordPress
-
-### Technologies
-WordPress

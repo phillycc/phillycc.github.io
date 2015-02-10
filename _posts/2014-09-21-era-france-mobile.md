@@ -9,24 +9,22 @@ date: 2014-01-01 00:00:08
 tags: []
 permalink: /era-france-mobile/
 ---
-Mobile European real estate franchise website.
-
-Site: [http://m.erafrance.com](http://m.erafrance.com)
-
-<!--more-->
+This project involved building a mobile version of the ERA France national website. As an employee of ERA Europe, I worked on a small team creating user functionality and forms for individual content sections. This approach was duplicated for ERA Switzerland and ERA Germany.
 
 ### Special features
-- Feature 1
-- Feature 2
-- Feature 3
+* Data search results without page refresh
+* Geo-location
+* Auto-completion
+* Custom form validation
 
-<br/>
+![ERA France Mobile Website]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
-<span class="project-img-wrap">
-![ERA France Mobile Website]({{ "/assets/images/projects/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
-</span>
+### Technologies:
+* HTML/CSS
+* Javascript/jQuery
+* Ajax/JSON
+* Google Maps API
+* SQL/SQL Server  
+* ColdFusion
 
-Made With:
-
-### Technologies
-HTML, CSS, ColdFusion, MS SQL Server
+Site: [http://m.erafrance.com](http://m.erafrance.com)
