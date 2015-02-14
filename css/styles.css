@@ -13,6 +13,8 @@ header li {
 header h1 {
   font-size: 30px;
   white-space: nowrap;
+  padding-top 0;
+  margin-top: 0;
 }
 header h1 a {
   font-weight: bold;
@@ -32,51 +34,14 @@ ul.social a:hover {
   color: #005BAA;
   transition: color 0.2s ease-in-out;
 }
-@media print, screen and (max-width: 966px) {
-  header small {
-    display: inline;
-  }
-  header ul {
-    position: absolute;
-    right: 50px;
-    top: 60px;
-  }
-  header p.bio {
-    display: none;
-  }
-}
-@media print, screen and (max-width: 480px) {
-  header ul.social {
-    display: none;
-  }
-  header .nav {
-    position: absolute;
-    top: 19px;
-    right: 16px;
-  }
-}
-@media print, screen and (max-width: 966px) {
-  ul.social {
-    position: absolute;
-    top: 14px;
-    right: 39px;
-    padding-left: 10px;
-  }
-}
-@media (min-width: 967px) {
-  header .nav {
-    margin-bottom: 30px;
-    margin-top: 30px;
-  }
-  header .nav a {
-    font-size: 14px;
-    text-transform: uppercase;
-    font-weight: 800;
-    font-family: Lato;
-    border-radius: 4px;
-    padding: 7px 12px;
-    border: 2px solid #cccccc;
-  }
+header .nav a {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: Lato;
+  border-radius: 4px;
+  padding: 7px 12px;
+  border: 2px solid #cccccc;
 }
 .index-menu {
   font-family: Lato;
@@ -110,7 +75,6 @@ ul.social a:hover {
 .index-menu .post-index-link {
   display: block;
 }
-
 .tag-label {
   font-size: 10px;
   border-radius: 3px;
@@ -124,11 +88,6 @@ ul.social a:hover {
 }
 .tag-label:first-child {
   margin-left: 5px;
-}
-@media print, screen and (max-width: 480px) {
-  .tag-label {
-    display: none;
-  }
 }
 /* Micro clearfix */
 .cf:before,
@@ -333,6 +292,51 @@ section {
 .meta {
   font-size: 16px;
 }
+
+/* Minimal scrollbars for code-samples on Webkit */
+pre::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+pre::-webkit-scrollbar-track-piece {
+  background-color: #eee;
+  -webkit-border-radius: 0px;
+  border-top: 1px solid #e5e5e5;
+}
+pre::-webkit-scrollbar-thumb:vertical {
+  height: 8px;
+  background-color: #ddd;
+  -webkit-border-radius: 0px;
+}
+pre::-webkit-scrollbar-thumb:horizontal {
+  width: 8px;
+  background-color: #ddd;
+  -webkit-border-radius: 0px;
+}
+
+/* Media Queries */
+@media print, screen and (max-width: 966px) {
+  ul.social {
+    position: absolute;
+    top: 14px;
+    right: 39px;
+    padding-left: 10px;
+  }
+}
+@media print, screen and (max-width: 966px) {
+  header ul {
+    position: absolute;
+    right: 50px;
+    top: 60px;
+  }
+  header p.bio, header small {
+    display: none;
+  }
+  header ul.social {
+    display: none;
+  }
+}
+
 @media print, screen and (max-width: 966px) {
   .wrapper {
     width: auto;
@@ -349,6 +353,29 @@ section {
     border-top: 1px solid #e5e5e5;
     padding: 20px 0;
     margin: 0 0 20px;
+  }
+  body {
+    padding:25px 50px;
+  }
+  header .nav {
+    position: absolute;
+    top: 32px;
+    right: 50px;
+  }
+}
+@media print, screen and (max-width: 480px) {
+  .tag-label {
+    display: none;
+  }
+}
+@media print, screen and (max-width: 480px) {
+  header ul.social {
+    display: none;
+  }
+  header .nav {
+    position: absolute;
+    top: 19px;
+    right: 16px;
   }
 }
 @media print, screen and (max-width: 480px) {
@@ -374,30 +401,9 @@ section {
     text-align: center;
   }
 }
-
 @media print {
   body {
     padding: 0.4in;
     font-size: 12pt;
   }
-}
-/* Minimal scrollbars for code-samples on Webkit */
-pre::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
-pre::-webkit-scrollbar-track-piece {
-  background-color: #eee;
-  -webkit-border-radius: 0px;
-  border-top: 1px solid #e5e5e5;
-}
-pre::-webkit-scrollbar-thumb:vertical {
-  height: 8px;
-  background-color: #ddd;
-  -webkit-border-radius: 0px;
-}
-pre::-webkit-scrollbar-thumb:horizontal {
-  width: 8px;
-  background-color: #ddd;
-  -webkit-border-radius: 0px;
 }
