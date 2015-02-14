@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Responymous App - 2014
+title: Responymous - 2014
 category: project
-subtitle: Real-time instructional feedback app built for the Iron Yard in Orlando
+subtitle: Real-time instructional feedback app built for the Iron Yard, Orlando campus
 img_small: "respony_tn.jpg"
 img_large: "respony_fw.jpg"
 date: 2014-12-11 00:00:00
