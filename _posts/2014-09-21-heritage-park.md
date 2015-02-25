@@ -22,4 +22,4 @@ In 2014, I redesigned the website using WordPress. Online vehicle registration i
 * MySQL
 * Wordpress
 
-Site: [Heritageparktoa.com](heritageparktoa.com)
+Site: [Heritageparktoa.com](http://heritageparktoa.com)
