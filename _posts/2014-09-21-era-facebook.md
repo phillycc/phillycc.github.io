@@ -9,7 +9,7 @@ date: 2014-01-01 00:00:07
 tags: []
 permalink: /era-europe-facebook-connect/
 ---
-As an employee of ERA Europe, I created an app that strategically inserts a user's Facebook account data and photos into a promotional 2-minute real estate video. ERA Europe received an iNOVA Brand Management Honors award for its "We Already Know You" Facebook Video Campaign.
+As an employee of ERA Europe, I created an app that strategically inserts a user's Facebook content into a promotional 2-minute real estate video. ERA Europe received an iNOVA Brand Management Honors award for its "We Already Know You" Facebook Video Campaign based in large part on the work that I did.
 
 ### Special features
 * Login in with Facebook
@@ -29,7 +29,8 @@ As an employee of ERA Europe, I created an app that strategically inserts a user
 * Facebook Graph API
 * SQL/SQL Server  
 * ColdFusion
+* Subversion
 
 Disclaimer: The app does not incorporate the latest Facebook Graph API changes and subsequently may not function as designed.
 
-Site: [http://ERAeuFacebookVideo.com/](http://ERAeuFacebookVideo.com/)
+Site: [ERAeuFacebookVideo.com](http://ERAeuFacebookVideo.com/)

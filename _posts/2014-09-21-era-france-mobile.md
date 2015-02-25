@@ -13,8 +13,8 @@ This project involved building a mobile version of the ERA France national websi
 
 ### Special features
 * Data search results without page refresh
-* Geo-location
-* Auto-completion
+* Search option based on geolocation
+* Search auto-completion
 * Custom form validation
 
 ![ERA France Mobile Website]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
@@ -26,5 +26,6 @@ This project involved building a mobile version of the ERA France national websi
 * Google Maps API
 * SQL/SQL Server  
 * ColdFusion
+* Subversion
 
-Site: [http://m.erafrance.com](http://m.erafrance.com)
+Site: [m.erafrance.com](http://m.erafrance.com)

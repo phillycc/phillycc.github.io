@@ -9,7 +9,7 @@ date: 2014-01-01 00:00:10
 tags: []
 permalink: /era-suisse/
 ---
-This project represented a UI redesign of Switzerland’s national real estate website.  As an employee of ERA Europe, I coded all user functionality and all database integration. I also lead the team framing the site in Bootstrap per our graphic design specs.
+This Agile project represented a UI redesign of Switzerland’s national real estate website.  As an employee of ERA Europe, I coded all user functionality and all database integration. I also lead the team framing the site in Bootstrap per our graphic design specs.
 
 ### Special features:
 * Responsive design
@@ -27,5 +27,6 @@ This project represented a UI redesign of Switzerland’s national real estate w
 * Google Maps
 * SQL/SQL Server  
 * ColdFusion
+* Subversion
 
-Site: [http://erasuisse.ch](http://erasuisse.ch)
+Site: [ERAsuisse.ch](http://erasuisse.ch)

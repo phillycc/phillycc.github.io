@@ -28,4 +28,4 @@ This project represented a UI redesign of Germany’s national real estate websi
 * SQL/SQL Server  
 * ColdFusion
 
-Site: [http://eradeutschland.de](http://eradeutschland.de/)
+Site: [ERAdeutschland.de](http://eradeutschland.de/)
