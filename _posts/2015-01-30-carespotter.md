@@ -29,5 +29,6 @@ This project represents a UI redesign of a healthcare start-up.  As an independe
 * Object-relational mapping (ORM)
 * MySQL
 * git/Bitbucket
+* PivotalTracker 
 
 Site: [Carespotter.com](http://carespotter.com)

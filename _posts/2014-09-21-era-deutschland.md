@@ -9,7 +9,7 @@ date: 2014-01-01 00:00:09
 tags: []
 permalink: /era-deutschland/
 ---
-This project represented a UI redesign of Germany’s national real estate website.  As an employee of ERA Europe, I was tasked with reusing and customizing the code base for sister website, ERA Switzerland. Much of my work involved tweaking functionality unique to the German real estate workflows and data.
+This Agile project represented a UI redesign of Germany’s national real estate website.  As an employee of ERA Europe, I was tasked with reusing and customizing the code base for sister website, ERA Switzerland. Much of my work involved tweaking functionality unique to the German real estate workflows and data.
 
 ### Special features:
 * Responsive design

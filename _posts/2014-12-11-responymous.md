@@ -11,7 +11,7 @@ permalink: /responymous/
 ---
 This feedback app allows instructors of the Iron Yard's Orlando campus to poll student comprehension during lecture in real-time. I created and presented the app as my capstone project while enrolled in the Iron Yard's 12-week coding bootcamp for front-end engineering.
 
-While collaborating with a classmate, I was team lead and focused on coding the AngularJS MVC design, instructor UI, user authentication, and populating a NoSQL database.
+While collaborating with a classmate, I was the Agile team lead, and focused on coding the AngularJS MVC design, instructor UI, user authentication, and populating a NoSQL database.
 
 Responymous is currently being used for three Iron Yard bootcamps: Front-end Engineering, Rails Engineering, and Mobile Engineering.
 

@@ -9,7 +9,7 @@ date: 2014-01-01 00:00:08
 tags: []
 permalink: /era-france-mobile/
 ---
-This project involved building a mobile version of the ERA France national website. As an employee of ERA Europe, I worked on a small team creating user functionality and forms for individual content sections. This approach was duplicated for ERA Switzerland and ERA Germany.
+This Agile project involved building a mobile version of the ERA France national website. As an employee of ERA Europe, I worked on a small team creating user functionality and forms for individual content sections. This approach was duplicated for ERA Switzerland and ERA Germany.
 
 ### Special features
 * Data search results without page refresh
