@@ -9,7 +9,7 @@ date: 2015-01-30 00:00:00
 tags: []
 permalink: /carespotter/
 ---
-This project represents a UI redesign of a healthcare start-up.  As an independent consultant, I am building multiple registration screens for new caregivers, plus functionality for registered caregivers to manage their profiles. The redesigned website (shown below) is expected to launch March 2015.
+This project represents a website redesign for an Orlando healthcare start-up.  As an independent consultant, I am building multiple registration screens for new caregivers, plus functionality for registered caregivers to manage their profiles. The redesigned website (shown below) is expected to launch March 2015.
 
 ### Special features:
 * Responsive design
@@ -29,6 +29,6 @@ This project represents a UI redesign of a healthcare start-up.  As an independe
 * Object-relational mapping (ORM)
 * MySQL
 * git/Bitbucket
-* PivotalTracker 
+* PivotalTracker
 
 Site: [Carespotter.com](http://carespotter.com)
