@@ -9,7 +9,7 @@ date: 2015-01-30 00:00:00
 tags: []
 permalink: /carespotter/
 ---
-This project represents a website redesign for an Orlando healthcare start-up.  As an independent consultant, I am building multiple registration screens for new caregivers, plus functionality for registered caregivers to manage their profiles. The redesigned website (shown below) is expected to launch March 2015.
+This project represents a website redesign for an Orlando healthcare start-up.  As an independent consultant, I am building multiple registration screens for new caregivers, plus functionality for registered caregivers to manage their profiles. The redesigned website launched May 2015.
 
 ### Special features:
 * Responsive design
