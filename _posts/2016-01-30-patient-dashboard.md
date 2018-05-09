@@ -2,7 +2,7 @@
 layout: post
 title: BioPlus Patient Dashboard - 2016
 category: project
-subtitle: This fully responsive website provides BioPlus patients electronic access to their protected health information ... <span>READ MORE</span> 
+subtitle: This fully responsive website provides BioPlus patients electronic access ... <span>READ MORE</span> 
 img_small: "mybph.jpg"
 img_large: "mybph.jpg"
 date: 2016-01-30 00:00:00
@@ -31,4 +31,4 @@ Being the driving force behind the company's first-ever patient portal, I was re
 * SOAP
 * TFS
 
-Site: [Patient Dashboard](https://my.bioplushealth.com)
+Site: [https://my.bioplushealth.com](https://my.bioplushealth.com)
