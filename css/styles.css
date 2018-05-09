@@ -292,6 +292,8 @@ section {
 .meta {
   font-size: 16px;
 }
+#home img { width:305px; }
+
 
 /* Minimal scrollbars for code-samples on Webkit */
 pre::-webkit-scrollbar {
