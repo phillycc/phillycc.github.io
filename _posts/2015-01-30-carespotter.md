@@ -9,7 +9,7 @@ date: 2015-01-30 00:00:00
 tags: []
 permalink: /carespotter/
 ---
-This project represented a website redesign for an Orlando healthcare start-up.  Working on a virtual team via Slack, I programmed 18 multi-step registration screens for new caregivers, plus functionality for registered caregivers to manage their profiles. The redesigned website launched May 2015.
+This project represented a website redesign2 for an Orlando healthcare start-up.  Working on a virtual team via Slack, I programmed 18 multi-step registration screens for new caregivers, plus functionality for registered caregivers to manage their profiles. The redesigned website launched May 2015.
 
 ### Special features:
 * Responsive design
