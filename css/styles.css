@@ -217,7 +217,41 @@ section {
 .post {
   margin-top: 0;
 }
-
+.btn-direction {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-family: Lato;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    min-width:85px;
+}
+section .previous {
+   background-color: #fff;
+   border-color: #005BAA;
+   color: #005BAA;
+   margin-right:10px;
+}
+section .next {
+   color: #fff;
+   background-color: #005BAA;
+   border-color: #005BAA;
+}
 .btn{
   border-color: #205081;
   background: #205081;
