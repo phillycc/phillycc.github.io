@@ -7,8 +7,8 @@ img_small: "mybph.jpg"
 img_large: "mybph.jpg"
 date: 2016-01-30 00:00:00
 tags: []
-back_url:
-next_url: 
+previous_url: /
+next_url: /carespotter/
 permalink: /bioplus-patient-dashboard/
 ---
 This fully responsive website provides BioPlus patients electronic access to their protected health information (PHI), including prescription history, contact info, and medical data. Patients can also conduct a series of transactions, including ordering refills, e-signing consent forms, and updating contact info. 
