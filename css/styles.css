@@ -241,6 +241,7 @@ section {
     border-radius: 4px;
     min-width:85px;
 }
+.site-url { display:block;margin-bottom:20px;}
 section .previous {
    background-color: #fff;
    border-color: #005BAA;
