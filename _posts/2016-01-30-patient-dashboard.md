@@ -2,14 +2,14 @@
 layout: post
 title: BioPlus Patient Dashboard - 2016
 category: project
-subtitle: This fully responsive website provides BioPlus patients electronic access ... <span>READ MORE</span> 
+subtitle: This fully responsive website provides BioPlus patients electronic access ... 
 img_small: "mybph.jpg"
 img_large: "mybph.jpg"
 date: 2016-01-30 00:00:00
 tags: []
 siteURL: "https://my.bioplushealth.com/"
-previous_url: /
-next_url: /carespotter/
+previous_url: /carespotter/
+next_url: /bioplus-notes-viewer/
 permalink: /bioplus-patient-dashboard/
 ---
 This fully responsive website provides BioPlus patients electronic access to their protected health information (PHI), including prescription history, contact info, and medical data. Patients can also conduct a series of transactions, including ordering refills, e-signing consent forms, and updating contact info. 
