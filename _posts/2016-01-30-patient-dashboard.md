@@ -2,7 +2,7 @@
 layout: post
 title: BioPlus Patient Dashboard - 2016
 category: project
-subtitle: This fully responsive website provides BioPlus patients electronic access ... 
+subtitle: Fully responsive website provides BioPlus patients electronic access to their ... 
 img_small: "mybph.jpg"
 img_large: "mybph.jpg"
 date: 2016-01-30 00:00:00

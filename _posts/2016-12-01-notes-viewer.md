@@ -2,14 +2,14 @@
 layout: post
 title: BioPlus Patient Notes Viewer - 2016
 category: project
-subtitle: This single screen web-based app gives BioPlus intake specialists access ...
+subtitle: Single screen web-based app gives BioPlus intake specialists quick access ...
 img_small: "notes.jpg"
 img_large: "notes.jpg"
 date: 2016-12-01 00:00:00
 tags: []
 siteURL: ""
 previous_url: /bioplus-patient-dashboard/
-next_url: /bioplus-patient-dashboard/
+next_url: /
 permalink: /bioplus-notes-viewer/
 ---
 This single screen web-based app gives BioPlus intake specialists and pharmacists quick access to the electronic medical notes of individual patients while verifying new drug orders and/or refills. The viewer is accessed via a modal launched from within the company's custom patient management software.     
