@@ -22,7 +22,9 @@ I led this greenfield project, designing the UI/UX (via interactive Balsamiq wir
 In addition to getting their complete prescription history, patients can track their drug shipments in real-time via FedEx tracking. They can also watch detailed images and instructional videos specific to their medication.
 
 ### Biggest accomplishments
-Being the driving force behind the company's first-ever patient portal, I was required to wear a variety of different hats. More than 2,000 BioPlus patients have registered for online access to their medical data. Securing the website and patient health information (PHI) was a top-priority and was confirmed successfully via third-party penetration testing.  
+* Was the driving force behind the company's first-ever patient portal
+* More than 2,100 BioPlus patients have accessed their medical data online 
+* With security a top-priority, the site has passed periodic third-party penetration testing  
 
 ### Technologies used
 * HTML5
