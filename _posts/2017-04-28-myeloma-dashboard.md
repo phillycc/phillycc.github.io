@@ -8,7 +8,7 @@ img_large: "iris.jpg"
 date: 2017-04-28 00:00:00
 tags: []
 siteURL: ""
-previous_url: /
+previous_url: /bioplus-rxcommunicator/
 next_url: /bioplus-notes-viewer/
 permalink: /bioplus-myeloma-dashboard/
 ---

@@ -8,7 +8,7 @@ img_large: "notes.jpg"
 date: 2016-12-01 00:00:00
 tags: []
 siteURL: ""
-previous_url: /
+previous_url: /bioplus-myeloma-dashboard/
 next_url: /bioplus-patient-dashboard/
 permalink: /bioplus-notes-viewer/
 ---

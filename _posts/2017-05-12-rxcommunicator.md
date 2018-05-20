@@ -7,8 +7,8 @@ img_small: "rxcomm_thumb.jpg"
 img_large: "rxcomm.jpg"
 date: 2017-04-28 00:00:00
 tags: []
-siteURL: "https://play.google.com/store/apps/details?id=com.bioplusrx.rxcom"
-previous_url: /
+siteURL: "https://rxcommunicator.com"
+previous_url: /bioplus-sales-dashboard/
 next_url: /bioplus-myeloma-dashboard/
 permalink: /bioplus-rxcommunicator/
 ---
