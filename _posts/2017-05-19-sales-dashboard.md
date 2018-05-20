@@ -2,7 +2,7 @@
 layout: post
 title: BioPlus Sales Dashboard - 2017
 category: project
-subtitle: RxCommunicator companion for sales staff to track and text with doctors ...
+subtitle: RxCommunicator companion app for sales staff to communicate with doctors ...
 img_small: "salesdash.jpg"
 img_large: "salesdash.jpg"
 date: 2017-05-19 00:00:00
@@ -12,7 +12,7 @@ previous_url: /bioplus-live4life/
 next_url: /bioplus-rxcommunicator/
 permalink: /bioplus-sales-dashboard/
 ---
-As a critical companion to the RxCommunicator mobile app for doctors, this responsive single page web app (SPA) gave BioPlus account reps an interface to read and respond to text messages from their doctor offices (MDOs). The front-end of the Sales Dashboard was entirely of my own making, from design and layout to coding, testing, and product support. I also worked closely with our RESTful web API developer in defining the required HTTP requests and responses.       
+As a critical companion to the RxCommunicator mobile app for doctors, this responsive single page web app (SPA) gave BioPlus account reps an interface to read and respond to text messages from their doctor offices (MDOs). The front-end of the Sales Dashboard was entirely of my own making, from design and layout to coding, testing, and product support. I also worked closely with our RESTful API developer in defining the required HTTP requests and responses.       
 
 ![Notes Viewer]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
