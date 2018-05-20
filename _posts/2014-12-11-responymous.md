@@ -7,25 +7,26 @@ img_small: "respony_tn.jpg"
 img_large: "respony_fw.jpg"
 date: 2014-12-11 00:00:00
 tags: []
+siteURL: ""
+previous_url: /carespotter/
+next_url: /era-suisse/
 permalink: /responymous/
 ---
-This app allows instructors of the Iron Yard to gauge the effectiveness of their lectures by aggregating and visually displaying student polling data. I created and presented the app as my capstone project while enrolled in the Iron Yard's 12-week coding bootcamp for front-end engineering.
+This app represented a capstone project while I was enrolled in the Iron Yard Academy’s 12-week coding bootcamp for front-end engineering. The purpose of the app allowed Iron Yard instructors to gauge the effectiveness of their lectures by aggregating and visually displaying student polling data. 
 
-While collaborating with a classmate, I was the Agile team lead, and focused on coding the AngularJS MVC design, instructor UI, user authentication, and populating a NoSQL database.
-
-Responymous is currently being used for three Iron Yard bootcamps in Orlando: Front-end Engineering, Rails Engineering, and Mobile Engineering.
-
-### Special features:
-* User interfaces based on role (student vs. instructor)
-* Progress bar in instructor UI moves in real-time as students vote
-* Unlimited student voting, but only last vote is counted
-* Student polling selections obscured from watchful eyes of fellow classmates
-* Responsive design to encourage student voting on smartphone
-* GitHub authentication and login
+Students indicted their level of comprehension to new concepts by selecting from a scale of 1 to 5 and could vote without limit. I was the Agile lead for a small group of classmates working on the project and focused my effort on coding the AngularJS MVC design, instructor UI, user authentication, and designing/populating a NoSQL database.
 
 ![Responymous App]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
-### Technologies:
+### Coolest app features
+Two separate user interfaces based on role (student and instructor), Bootstrap progress bar in instructor UI moved in real-time as students voted, and the mobile UI helped obscured student selections from the watchful eyes of fellow classmates.
+
+### Biggest accomplishments
+* Getting the app completed in two weeks and then presenting it to the local tech community at large 
+* The app was used in real-time by all in the audience who used the GitHub authentication and login to rate our presentation 
+* GitHub authentication and login
+
+### Technologies used
 * Bootstrap/HTML5/CSS
 * AngularJS
 * Ajax/JSON
@@ -33,5 +34,3 @@ Responymous is currently being used for three Iron Yard bootcamps in Orlando: Fr
 * OAuth 2.0
 * Yeoman/Gulp
 * git/gitflow/GitHub
-
-Site: [bit.ly/respony](http://bit.ly/respony)
