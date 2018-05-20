@@ -1,33 +1,33 @@
 ---
 layout: post
-title: BioPlus Live4Life - 2017
+title: BioPlus Sales Dashboard - 2017
 category: project
 subtitle: RxCommunicator companion for sales staff to track and text with doctors ...
-
-img_small: "live4life_thumb.jpg"
-img_large: "live4life.jpg"
-date: 2017-10-16 00:00:00
+img_small: "salesdash.jpg"
+img_large: "salesdash.jpg"
+date: 2017-05-19 00:00:00
 tags: []
-siteURL: "https://live4life.com/"
-previous_url: /
-next_url: /bioplus-sales-dashboard/
-permalink: /bioplus-live4life/
+siteURL: "https://sales.rxcommunicator.com/"
+previous_url: /bioplus-live4life/
+next_url: /bioplus-rxcommunicator/
+permalink: /bioplus-sales-dashboard/
 ---
-This one-person project turned an employees-only website (built with WordPress) into a hybrid mobile app for both Android and iOS. I customized the mobile UI using [AppPresser](https://apppresser.com/)  and compiled the requisite apk (Android) and ipa (iOS) files using Adobe [PhoneGap Build](https://build.phonegap.com/). I released the former to the Google Play Store and built the latter for in-house distribution.           
+As a critical companion to the RxCommunicator mobile app for doctors, this responsive single page web app (SPA) gave BioPlus account reps an interface to read and respond to text messages from their doctor offices (MDOs). The front-end of the Sales Dashboard was entirely of my own making, from design and layout to coding, testing, and product support. I also worked closely with our RESTful web API developer in defining the required HTTP requests and responses.       
 
 ![Notes Viewer]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
 ### Coolest app features
-Despite building several dozen WordPress sites during my career, this was my first Intranet site built entirely with WordPress (using LDAP/Active Directory), my first e-commerce component (using WooCommerce and myCRED), and my first social site (using BuddyPress).  
+I created functionality for administrators to support both the RxCommunicator mobile app and the Sales Dashboard. This included a feature that gave support personnel a window into what the doctor or registered staff member saw on his or her phone when responding to specific technical or data issues. I also provided admins with "one-click" functionality to register and to deactivate user accounts.
 
 ### Biggest accomplishments
-* Learning how to generate and export the various iOS certificates, .p12 files, and provisioning profiles (using a Mac mini) and then using Adobe PhoneGap Build to create the .ipa file.
-* Migrating the site, MySQL database, and SSL certificate from Windows Server 2012 to a Microsoft Azure cloud host. Achieved a whopping 79 percent performance increase for a site that previously made users wait 18 seconds on average for a page to download. 
+* Working with token-based authentication and maintaining state in an AngularJS SPA, including http interceptors for handling refresh tokens. 
+* Going from vague idea to full-blown AngularJS/RESTful responsive app in under 4 weeks, just in time for its roll-out at the annual BioPlus sales conference.
 
 ### Technologies used
-* AppPresser Ionic mobile framework for WordPress
-* Adobe PhoneGap Build
-* Apple Developer Enterprise console
-* Google Play Console
-* Azure PaaS hosting for WordPress 
-* MySQL Workbench
+* Bootstrap/HTML/CSS
+* Javascript/jQuery
+* AngularJS
+* RESTful API with JSON
+* MuleSoft's Anypoint Platform
+* Postman
+* Visual Studio Team Services with git 
