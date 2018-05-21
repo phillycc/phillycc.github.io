@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Responymous - 2014
+title: Iron Yard Responymous App - 2014
 category: project
 subtitle: Real-time instructional feedback app built for the Iron Yard
 img_small: "respony_tn.jpg"

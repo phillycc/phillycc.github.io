@@ -7,6 +7,9 @@ img_small: "erach_tn.jpg"
 img_large: "erach_fw.jpg"
 date: 2014-01-01 00:00:10
 tags: []
+siteURL: "http://erasuisse.ch/"
+previous_url: /responymous/
+next_url: /era-france-mobile/
 permalink: /era-suisse/
 ---
 This Agile project represented a UI redesign of Switzerland’s national real estate website.  As an employee of ERA Europe, I coded all user functionality and all database integration. I also lead the team framing the site in Bootstrap per our graphic design specs.
