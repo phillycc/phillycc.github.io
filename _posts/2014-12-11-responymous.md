@@ -12,9 +12,9 @@ previous_url: /carespotter/
 next_url: /era-suisse/
 permalink: /responymous/
 ---
-This app represented a capstone project while I was enrolled in the Iron Yard Academy’s 12-week coding bootcamp for front-end engineering. The purpose of the app allowed Iron Yard instructors to gauge the effectiveness of their lectures by aggregating and visually displaying student polling data. 
+This app represented a capstone project while I was enrolled in the Iron Yard Academy’s 12-week coding bootcamp for front-end engineering. The app gauged the effectiveness of lectures by showing the instructor a visual of aggregated student polling data in real-time. Students indicted their level of comprehension to new concepts by selecting on a scale of 1 to 5. 
 
-Students indicted their level of comprehension to new concepts by selecting from a scale of 1 to 5 and could vote without limit. I was the Agile lead for a small group of classmates working on the project and focused my effort on coding the AngularJS MVC design, instructor UI, user authentication, and designing/populating a NoSQL database.
+I was the Agile lead for a small group of classmates working on the project and focused my efforts on coding the AngularJS MVC design, instructor UI, user authentication, and designing/populating a NoSQL database.
 
 ![Responymous App]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 

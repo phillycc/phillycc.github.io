@@ -12,7 +12,7 @@ previous_url: /responymous/
 next_url: /era-france-mobile/
 permalink: /era-suisse/
 ---
-This Agile project represented a UI redesign of Switzerland’s national real estate website, plus introduced several new functionalities.  As an employee of ERA Europe, I coded all user functionality and all database integration. I also lead the team framing the site in Bootstrap per our graphic design specs.
+This Agile project represented a UI redesign of Switzerland’s national real estate website, plus introduced several new functionalities.  As an employee of ERA Europe, I coded all user functionality and database integration. I also lead the team framing the site in Bootstrap per our graphic design specs.
 
 ![ERA Suisse Website]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
@@ -20,7 +20,7 @@ This Agile project represented a UI redesign of Switzerland’s national real es
 Search box auto-suggestion, infinite scroll of property search results, and custom property photo scrollers/carousels with thumbnail previewers
 
 ### Biggest accomplishments
-* Retro-fit much of the existing business logic (writen in ColdFusion) and numerous SQL Server stored procecures 
+* Retro-fit much of the existing business logic (written in ColdFusion) and numerous SQL Server stored procecures 
 * The site represented my first full-blown implementation of the Bootstrap framework and its various components
 
 ### Technologies used
