@@ -12,7 +12,7 @@ previous_url: /responymous/
 next_url: /era-france-mobile/
 permalink: /era-suisse/
 ---
-This Agile project represented a UI redesign of Switzerland’s national real estate website, plus introduced several new functionalities.  As an employee of ERA Europe, I coded all user functionality and database integration. I also lead the team framing the site in Bootstrap per our graphic design specs.
+This Agile project represented a UI redesign of Switzerland’s national real estate website, plus introduced several new functionalities.  I coded all user functionality and database integration. I also lead the team framing the site in Bootstrap per our graphic design specs. This approach was duplicated for the ERA Germany website. 
 
 ![ERA Suisse Website]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
