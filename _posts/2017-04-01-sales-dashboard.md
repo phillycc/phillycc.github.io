@@ -1,11 +1,12 @@
 ---
 layout: post
-title: BioPlus Sales Dashboard - 2017
+title: Sales Dashboard Website - 2017
+employer: BioPlus Specialty Pharmacy
 category: project
 subtitle: RxCommunicator companion app for sales staff to communicate with doctors ...
 img_small: "salesdash.jpg"
 img_large: "salesdash.jpg"
-date: 2017-05-19 00:00:00
+date: 2017-04-01 00:00:00
 tags: []
 siteURL: "https://sales.rxcommunicator.com/"
 previous_url: /bioplus-live4life/

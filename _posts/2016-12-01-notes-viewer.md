@@ -1,6 +1,7 @@
 ---
 layout: post
-title: BioPlus Patient Notes Viewer - 2016
+title: Patient Notes Website - 2016
+employer: BioPlus Specialty Pharmacy
 category: project
 subtitle: Single screen web-based app gives BioPlus intake specialists quick access ...
 img_small: "notes.jpg"

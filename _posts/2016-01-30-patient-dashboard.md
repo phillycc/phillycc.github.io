@@ -1,6 +1,7 @@
 ---
 layout: post
-title: BioPlus Patient Dashboard - 2016
+title: Patient Dashboard Website - 2016
+employer: BioPlus Specialty Pharmacy
 category: project
 subtitle: Fully responsive website provides BioPlus patients electronic access to their ... 
 img_small: "mybph.jpg"

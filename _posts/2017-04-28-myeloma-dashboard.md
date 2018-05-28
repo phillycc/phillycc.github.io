@@ -1,6 +1,7 @@
 ---
 layout: post
-title: BioPlus Multiple Myeloma Dashboard - 2017
+title: Myeloma Dashboard App - 2017
+employer: BioPlus Specialty Pharmacy
 category: project
 subtitle: Functional prototype aggregates multiple myeloma drug and patient data ...
 img_small: "iris.jpg"

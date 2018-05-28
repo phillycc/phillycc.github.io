@@ -1,17 +1,22 @@
 ---
 layout: post
-title: ERA Europe Facebook App - 2012
+title: Facebook App - 2012
+employer: ERA Europe 
 subtitle: Facebook Connect promotional web app
 category: project
 img_small: "erafb_tn.jpg"
 img_large: "erafb_fw.jpg"
 date: 2014-01-01 00:00:07
 tags: []
+previous_url: /era-france-mobile/
+next_url: /
 permalink: /era-europe-facebook-connect/
 ---
 As an employee of ERA Europe, I created an app that strategically inserts a user's Facebook content into a promotional 2-minute real estate video. ERA Europe received an iNOVA Brand Management Honors award for its "We Already Know You" Facebook Video Campaign based in large part on the work that I did.
 
-### Special features
+![ERA Europe Facebook Web App]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
+
+### Coolest app features
 * Login in with Facebook
 * Inserts user's name, photos, and friends' profile pics
 * Posts a message to the user's Facebook wall
@@ -19,9 +24,10 @@ As an employee of ERA Europe, I created an app that strategically inserts a user
 * Logs and stores user stats in database
 * Cheesy 1970s-style music at the end
 
-![ERA Europe Facebook Web App]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
+### Biggest accomplishments
+*  
 
-### Technologies:
+### Technologies used
 * HTML/CSS
 * Javascript/jQuery
 * Ajax/JSON
@@ -31,6 +37,6 @@ As an employee of ERA Europe, I created an app that strategically inserts a user
 * ColdFusion
 * Subversion
 
-Disclaimer: The app does not incorporate the latest Facebook Graph API changes and subsequently may not function as designed.
+### Notes
+The app was decommissioned in 2015
 
-Site: [ERAeuFacebookVideo.com](http://ERAeuFacebookVideo.com/)

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Carespotter Website - 2015
+title: Company Website - 2015
+employer: Carespotter
 category: project
 subtitle: Online marketplace that connects families and professional caregivers ...
 img_small: "carespotter_tn.jpg"

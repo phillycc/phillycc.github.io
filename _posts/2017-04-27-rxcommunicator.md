@@ -1,11 +1,12 @@
 ---
 layout: post
-title: BioPlus RxCommunicator - 2017
+title: RxCommunicator Mobile App - 2017
+employer: BioPlus Specialty Pharmacy
 category: project
 subtitle: Native app provides doctors real-time tracking of patient prescriptions ...
 img_small: "rxcomm_thumb.jpg"
 img_large: "rxcomm.jpg"
-date: 2017-04-28 00:00:00
+date: 2017-04-27 00:00:00
 tags: []
 siteURL: "https://rxcommunicator.com"
 previous_url: /bioplus-sales-dashboard/

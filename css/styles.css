@@ -58,14 +58,14 @@ header .nav a {
 .index-menu .post-title {
   display: block;
   font-size: 20px;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
   line-height: 1em;
   font-weight: bold;
-  color: ##005BAA;
+  color: #333;
 }
 .index-menu .post-subtitle {
   display: inline-block;
-  margin-top: 5px;
+  margin-top: 15px;
   font-family: Georgia, serif;
   color: #555;
   font-weight: 300;
@@ -126,6 +126,21 @@ h2 {
   font-size: 40px;
   line-height: 1.1;
 }
+.page-subheading {
+    font-size: 16px;
+    margin-top: 5px;
+    color:#005BAA;
+    opacity:0.9;
+}
+.post-employer {
+    font-size: 15px;
+    margin-top: 0;
+    color:#005BAA;
+    margin-bottom:10px;
+    font-weight:600;
+    opacity:0.9;
+}
+
 @media (min-width: 967px) {
   h1.no-subheading {
     margin-bottom: 40px;
@@ -319,8 +334,8 @@ section {
 }
 .page-title {
   font-size: 22px;
-  margin-bottom: 10px;
   margin-top: 5px;
+  margin-bottom: 0;
 }
 .page-subtitle {
   font-size: 16px;
