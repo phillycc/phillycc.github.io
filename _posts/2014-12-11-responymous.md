@@ -8,7 +8,7 @@ img_small: "respony_tn.jpg"
 img_large: "respony_fw.jpg"
 date: 2014-12-11 00:00:00
 tags: []
-siteURL: ""
+siteURL: "https://github.com/ResponymousApp/Responymous"
 previous_url: /carespotter/
 next_url: /era-suisse/
 permalink: /responymous/
@@ -23,9 +23,9 @@ I was the Agile lead for a small group of classmates working on the project and 
 Two separate user interfaces based on role (student and instructor), Bootstrap progress bar in instructor UI moved in real-time as students voted, and the mobile UI helped obscured student selections from the watchful eyes of fellow classmates.
 
 ### Biggest accomplishments
-* Getting the app completed in two weeks and then presenting it to the local tech community at large 
-* The app was used in real-time by all in the audience who used the GitHub authentication and login to rate our presentation 
 * GitHub authentication and login
+* Getting the app completed in two weeks and presenting it to the Orlando tech community 
+* The audience was invited to test the app in real-time, even though it was designed and tested for smaller target audience (i.e., Iron Yard cohorts of no more than 20 students). Did not crash despite vigorous attempts to do so. 
 
 ### Technologies used
 * Bootstrap/HTML5/CSS

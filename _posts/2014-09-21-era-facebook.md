@@ -32,6 +32,6 @@ We shot the video on a movie set at Full Sail University. With Facebook Connect,
 * ColdFusion
 * Subversion
 
-### NOTE
+### Note
 The app was decommissioned in 2015
 

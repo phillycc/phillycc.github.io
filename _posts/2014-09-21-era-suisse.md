@@ -33,3 +33,6 @@ Search box auto-suggestion, infinite scroll of property search results, and cust
 * SQL/SQL Server  
 * ColdFusion
 * Subversion
+
+### Note
+The website was redesigned in 2017

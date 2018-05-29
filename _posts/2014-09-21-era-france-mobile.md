@@ -32,3 +32,6 @@ Property search option based on the user's geolocation, infinite scroll of prope
 * SQL/SQL Server  
 * ColdFusion
 * Subversion
+
+### Note
+The app was decommissioned in 2015
