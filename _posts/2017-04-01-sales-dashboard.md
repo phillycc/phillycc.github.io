@@ -3,14 +3,14 @@ layout: post
 title: Sales Dashboard Website - 2017
 employer: BioPlus Specialty Pharmacy
 category: project
-subtitle: RxCommunicator companion app for sales staff to communicate with doctors ...
+subtitle: RxCommunicator companion app for sales staff to communicate with doctors
 img_small: "salesdash.jpg"
 img_large: "salesdash.jpg"
 date: 2017-04-01 00:00:00
 tags: []
 siteURL: "https://sales.rxcommunicator.com/"
-previous_url: /bioplus-live4life/
-next_url: /bioplus-rxcommunicator/
+previous_url: /bioplus-rxcommunicator/
+next_url: /bioplus-notes-viewer/
 permalink: /bioplus-sales-dashboard/
 ---
 As a critical companion to the RxCommunicator mobile app for doctors, this responsive single page web app (SPA) gave BioPlus account reps an interface to read and respond to text messages from their doctor offices (MDOs). The front-end of the Sales Dashboard was entirely of my own making, from design and layout to coding, testing, and product support. I also worked closely with our RESTful API developer in defining the required HTTP requests and responses.       
@@ -22,7 +22,7 @@ I created functionality for administrators to support both the RxCommunicator mo
 
 ### Biggest accomplishments
 * Working with token-based authentication and maintaining state in an AngularJS SPA, including http interceptors for handling refresh tokens. 
-* Going from vague idea to full-blown AngularJS/RESTful responsive app in under 4 weeks, just in time for its roll-out at the annual BioPlus sales conference.
+* Going from vague idea to full-blown AngularJS/RESTful responsive app in under 4 weeks, just in time for its roll-out at the annual BioPlus annual sales conference.
 
 ### Technologies used
 * Bootstrap/HTML/CSS

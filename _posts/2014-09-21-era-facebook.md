@@ -17,15 +17,10 @@ As an employee of ERA Europe, I created an app that strategically inserts a user
 ![ERA Europe Facebook Web App]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 
 ### Coolest app features
-* Login in with Facebook
-* Inserts user's name, photos, and friends' profile pics
-* Posts a message to the user's Facebook wall
-* Option to send email about the app to friends
-* Logs and stores user stats in database
-* Cheesy 1970s-style music at the end
+We shot the video on a movie set at Full Sail University. With Facebook Connect, the film (converted to a Flash SWF file) offered a customized experience to the end user by inserting their name, photos, and friends' profile pics at strategic moments during the movie. I also gave users the ability to post a message on their Facebook wall and send an email notification about the app to their friends. 
 
 ### Biggest accomplishments
-*  
+* Mastering Facebook Graph API to retrieve user data, social login with Facebook, and leveraging ActionScript (inside a Flash file) to insert user data and photos at the appropriate keyframes.    
 
 ### Technologies used
 * HTML/CSS
@@ -37,6 +32,6 @@ As an employee of ERA Europe, I created an app that strategically inserts a user
 * ColdFusion
 * Subversion
 
-### Notes
+### NOTE
 The app was decommissioned in 2015
 

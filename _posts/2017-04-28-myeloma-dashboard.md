@@ -3,17 +3,17 @@ layout: post
 title: Myeloma Dashboard App - 2017
 employer: BioPlus Specialty Pharmacy
 category: project
-subtitle: Functional prototype aggregates multiple myeloma drug and patient data ...
+subtitle: Chart-driven prototype aggregates multiple myeloma drug and patient data
 img_small: "iris.jpg"
 img_large: "iris.jpg"
 date: 2017-04-28 00:00:00
 tags: []
 siteURL: ""
-previous_url: /bioplus-rxcommunicator/
-next_url: /bioplus-notes-viewer/
+previous_url: /bioplus-live4life/
+next_url: /bioplus-rxcommunicator/
 permalink: /bioplus-myeloma-dashboard/
 ---
-This fully functional prototype aggregates multiple myeloma drug and patient data into a series of interactive charts, tables, and key performance indicators (KPIs). It was created to sell to drug manufacturers by showing them the efficacy of their drugs and that of their competitors. The dashboard also demonstrated the value of BioPlus services, including cost savings to patients and average times to ship.       
+This functional prototype aggregates multiple myeloma drug and patient data into a series of interactive charts, tables, and key performance indicators (KPIs). It was created to sell to drug manufacturers by showing them the efficacy of their drugs and that of their competitors. The dashboard also demonstrated the value of BioPlus services, including cost savings to patients and average times to ship.       
 
 ![Notes Viewer]({{ "/images/" | append: page.img_large | prepend: site.baseurl | prepend: site.url  }})
 

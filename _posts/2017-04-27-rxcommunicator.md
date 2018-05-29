@@ -3,14 +3,14 @@ layout: post
 title: RxCommunicator Mobile App - 2017
 employer: BioPlus Specialty Pharmacy
 category: project
-subtitle: Native app provides doctors real-time tracking of patient prescriptions ...
+subtitle: Mobile app provides doctors real-time tracking of patient prescriptions
 img_small: "rxcomm_thumb.jpg"
 img_large: "rxcomm.jpg"
 date: 2017-04-27 00:00:00
 tags: []
 siteURL: "https://rxcommunicator.com"
-previous_url: /bioplus-sales-dashboard/
-next_url: /bioplus-myeloma-dashboard/
+previous_url: /bioplus-myeloma-dashboard/
+next_url: /bioplus-sales-dashboard/
 permalink: /bioplus-rxcommunicator/
 ---
 My primary role for this greenfield project was to design and document a native mobile app's UI/UX. The app (built by a third party company) provides doctors real-time tracking and notifications of their patients' prescriptions by way of a RESTful web API (built by BioPlus). I mocked up the app with Balsamiq, created a MuleSoft online developer portal to document the UI/UX integration with the API, and lead the planning efforts.       
@@ -29,4 +29,4 @@ The app provides doctors total transparency as to how successful we are in meeti
 * Balsamiq
 * MuleSoft's Anypoint Platform
 * Postman
-* Visual Studio Team Services 
+* Visual Studio Team Services with git

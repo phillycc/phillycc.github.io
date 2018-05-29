@@ -139,6 +139,7 @@ h2 {
     margin-bottom:10px;
     font-weight:600;
     opacity:0.9;
+    display: block;
 }
 
 @media (min-width: 967px) {

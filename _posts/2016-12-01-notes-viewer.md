@@ -3,13 +3,13 @@ layout: post
 title: Patient Notes Website - 2016
 employer: BioPlus Specialty Pharmacy
 category: project
-subtitle: Single screen web-based app gives BioPlus intake specialists quick access ...
+subtitle: Single screen web-based app provides quick access to patient medical notes
 img_small: "notes.jpg"
 img_large: "notes.jpg"
 date: 2016-12-01 00:00:00
 tags: []
 siteURL: ""
-previous_url: /bioplus-myeloma-dashboard/
+previous_url: /bioplus-sales-dashboard/
 next_url: /bioplus-patient-dashboard/
 permalink: /bioplus-notes-viewer/
 ---
@@ -30,4 +30,5 @@ Users can search patient notes data in a variety of ways (e.g., date range, keyw
 * JQuery
 * Bootstrap
 * AngularJS
+* Postman
 * RESTful API with JSON
