@@ -450,14 +450,20 @@ pre::-webkit-scrollbar-thumb:horizontal {
     margin-bottom: 15px;
   }
   .post-title {
-    font-size: 22px;
+    font-size: 16px !important;
+      color: #555 !important;
   }
   /* Center headings when mobile */
   .page-title,
   .page-subtitle,
   .meta {
-    text-align: center;
+    text-align: left;
+    font-size: 20px;
   }
+  .post-employer {
+     font-size:14px;
+     opacity:0.8;
+  }    
 }
 @media print {
   body {
