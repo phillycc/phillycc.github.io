@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Myeloma Dashboard App - 2017
+title: Myeloma Dashboard Website - 2017
 employer: BioPlus Specialty Pharmacy
 category: project
 subtitle: Chart-driven prototype aggregates multiple myeloma drug and patient data

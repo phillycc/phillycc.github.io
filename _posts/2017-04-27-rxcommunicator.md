@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RxCommunicator Mobile App - 2017
+title: RxCommunicator App - 2017
 employer: BioPlus Specialty Pharmacy
 category: project
 subtitle: Mobile app provides doctors real-time tracking of patient prescriptions
